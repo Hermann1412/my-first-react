@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  background-color: lightgrey;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
